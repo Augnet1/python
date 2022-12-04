@@ -1,7 +1,7 @@
 # Python
 
 ## Aula 7
-- while em Python
+- while
 
 Canal Otávio Miranda:
 https://youtu.be/bkSePLdPiDk

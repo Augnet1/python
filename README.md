@@ -25,3 +25,17 @@ Utilizando python
 
 ## Aula 6
 - Manipulando strings
+
+## Aula 7
+- while
+- 
+## Aula 8
+- while / else
+
+## Aula 9
+- Iterando strings com while
+
+## Aula 10
+- for
+- Iterando string com for
+- Função range(start=0, stop, step=1)
