@@ -39,3 +39,13 @@ Utilizando python
 - for
 - Iterando string com for
 - Função range(start=0, stop, step=1)
+
+## Aula 11
+- Listas
+- Fatiamento
+- append, insert, pop, del, clear, extend, +
+- min, max
+- range
+
+## Aula 12
+- for / else

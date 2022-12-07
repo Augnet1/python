@@ -1,5 +1,5 @@
 """
-for in Python
+for
 Iterando string com for
 Função range(start=0, stop, step=1)
 """
